@@ -6,7 +6,7 @@
 
         <meta property="og:title" content="A Barba de Baixo"/>
         <meta property="og:type" content="product"/>
-        <meta property="og:description" content="Would you like to increase your barbershop revenue without having to work more? Increase your income without working more!"/>
+        <meta property="og:description" content="Gostaria de aumentar o faturamento da sua barbearia sem precisar trabalhar mais? Aumente sua renda sem trabalhar mais!"/>
         <meta property="og:image" content="{{ asset('storage/en-meta-image.png') }}"/>
 
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
